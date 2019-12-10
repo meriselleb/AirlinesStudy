@@ -1,7 +1,1 @@
-import pandas as pd
-import numpy as np
-import seaborn as sns
-import matplotlib.pyplot as plt
-%matplotlib in line
-
-
+https://mybinder.org/v2/gh/meriselleb/AirlinesStudy/9969acb7d4251fa0a577ac3792a964beaf40ef29
